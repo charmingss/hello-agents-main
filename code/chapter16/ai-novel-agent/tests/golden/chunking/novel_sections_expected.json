@@ -1,0 +1,14 @@
+{
+  "sections": [
+    {"index": 0, "heading": "第一章 初遇", "text": "第一章 初遇", "char_start": 0, "char_end": 6, "source_ref": {"kind": "paragraph", "index": 0, "subindex": null}},
+    {"index": 1, "heading": null, "text": "雨落长街。她撑伞走来，像一束光。", "char_start": 8, "char_end": 24, "source_ref": {"kind": "paragraph", "index": 1, "subindex": null}},
+    {"index": 2, "heading": null, "text": "这是普通短句", "char_start": 26, "char_end": 32, "source_ref": {"kind": "page", "index": 0, "subindex": null}},
+    {"index": 3, "heading": null, "text": "姓名\t林夏", "char_start": 34, "char_end": 39, "source_ref": {"kind": "table_row", "index": 2, "subindex": 4}}
+  ],
+  "chunks": [
+    {"index": 0, "section_index": 0, "heading": "第一章 初遇", "text": "第一章 初遇", "char_start": 0, "char_end": 6, "source_ref": {"kind": "paragraph", "index": 0, "subindex": null}},
+    {"index": 1, "section_index": 1, "heading": null, "text": "雨落长街。她撑伞走来，像一束光。", "char_start": 8, "char_end": 24, "source_ref": {"kind": "paragraph", "index": 1, "subindex": null}},
+    {"index": 2, "section_index": 2, "heading": null, "text": "这是普通短句", "char_start": 26, "char_end": 32, "source_ref": {"kind": "page", "index": 0, "subindex": null}},
+    {"index": 3, "section_index": 3, "heading": null, "text": "姓名\t林夏", "char_start": 34, "char_end": 39, "source_ref": {"kind": "table_row", "index": 2, "subindex": 4}}
+  ]
+}

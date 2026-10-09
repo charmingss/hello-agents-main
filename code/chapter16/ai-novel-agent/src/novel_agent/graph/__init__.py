@@ -1,0 +1,1 @@
+"""Tenant-scoped Neo4j graph projection contracts and adapters."""
